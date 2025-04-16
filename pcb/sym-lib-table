@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/MOUDLE-SEEEDUINO-XIAO-ESP32S3.kicad_sym")(options "")(descr ""))
 )
